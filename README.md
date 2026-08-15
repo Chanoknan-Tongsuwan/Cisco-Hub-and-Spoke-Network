@@ -25,3 +25,8 @@
 * Switch : Cisco Catalyst 2960-24TT Layer 2 Switch
 * Backbone Cable : Single-Mode Fiber Optic (Armored Cable)
 * Local LAN : Cat6 UTP (Office) / Cat6A STP (Production Factory)
+
+<img width="1891" height="778" alt="image" src="https://github.com/user-attachments/assets/0151c60d-f8ed-43d3-8141-88e43f9d18b9" />
+<img width="1867" height="767" alt="image" src="https://github.com/user-attachments/assets/7b214bf7-c224-472c-b216-416030501704" />
+<img width="1885" height="772" alt="image" src="https://github.com/user-attachments/assets/12d2cbe6-8cf3-4c73-a5a5-5db2396bca0f" />
+
